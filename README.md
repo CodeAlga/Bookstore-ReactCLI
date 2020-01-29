@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/52d35e3d-987f-441c-a670-679b1733502f/deploy-status)](https://app.netlify.com/sites/alga-tgif-vue/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
