@@ -10,7 +10,7 @@ function Bookstore(props) {
         {searchBooks.map((book, i) => {
           return (
             <div className="card-wrapper" key={i}>
-              <div className="card-holder my-4" key={i}>
+              <div className="card-holder my-4">
                 <div className="card-front d-flex flex-column align-items-center justify-content-center mr-0">
                   <Link to={{ pathname: "/" + i, state: { book } }}>
                     <img
